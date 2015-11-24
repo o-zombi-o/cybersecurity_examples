@@ -1,4 +1,6 @@
-// example0.cpp
+/// @filename example0.cpp
+/// @author Joel D. Rodriguez-Ortiz
+/// @brief CS562 Overflow Example 0
 
 #include <cstdio>
 
