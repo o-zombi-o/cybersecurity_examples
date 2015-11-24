@@ -1,6 +1,6 @@
 /// @filename example0.cpp
 /// @author Joel D. Rodriguez-Ortiz
-/// @brief CS562 Overflow Example 0
+/// @brief CS562 Out of Bounds Access Example 0
 
 #include <cstdio>
 
